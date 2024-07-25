@@ -6,7 +6,7 @@
 
 ## Important Notes
 xGoalsPercentage:
-The xGoalsPercentage stat is used to measure the quality of a team's scoring chances. Simply put, the higher the number is, the greater chance that a scoring oppurtunity will result in a goal.
+The xGoalsPercentage stat is used to measure the quality of a team's scoring chances. Simply put, the higher the number is, the greater chance that a scoring opportunity will result in a goal.
 
 corsiPercentage:
 The corsiPercentage stat is a measure of the quantity of shots. It is calculated by taking the number of shot attempts a team has and dividing that by the sum of shot attempts for and against. This includes blocked shots. A corsi percentage over 50% implies that a team creates more chances than it gives up.
